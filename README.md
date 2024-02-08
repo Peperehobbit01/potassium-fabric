@@ -11,7 +11,7 @@
 
 ![Project icon]()
 
-# Hydrogen (for Fabric)
+# Potassium (for Fabric)
 ![GitHub license](https://img.shields.io/github/license/jellysquid3/hydrogen-fabric.svg)
 ![GitHub issues](https://img.shields.io/github/issues/jellysquid3/hydrogen-fabric.svg)
 ![GitHub tag](https://img.shields.io/github/tag/jellysquid3/hydrogen-fabric.svg)
