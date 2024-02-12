@@ -9,9 +9,6 @@ not necessary any more.
 ![Project icon]()
 
 # Potassium (for Fabric)
-![GitHub license](https://img.shields.io/github/license/jellysquid3/hydrogen-fabric.svg)
-![GitHub issues](https://img.shields.io/github/issues/jellysquid3/hydrogen-fabric.svg)
-![GitHub tag](https://img.shields.io/github/tag/jellysquid3/hydrogen-fabric.svg)
 
 Potassium is a free and open-source mod designed to reduce the game's memory requirements by implementing more
 memory-efficient data structures and logic. It's primarily designed for more heavily modded scenarios, but can
