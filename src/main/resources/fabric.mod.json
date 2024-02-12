@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "hydrogen",
+  "id": "potassium",
   "version": "${version}",
-  "name": "Hydrogen",
+  "name": "Potassium",
   "description": "A Minecraft mod designed to reduce the memory usage of the game.",
   "authors": [
-    "JellySquid"
+    "Peperehobbits01"
   ],
   "contact": {
-    "sources": "https://github.com/CaffeineMC/hydrogen-fabric",
-    "issues": "https://github.com/CaffeineMC/hydrogen-fabric/issues"
+    "sources": "https://github.com/Peperehobbit01/potassium-fabric",
+    "issues": "https://github.com/Peperehobbit01/potassium-fabric/issues"
   },
   "license": "LGPL-3.0-only",
-  "icon": "assets/hydrogen/icon.png",
+  "icon": "assets/potassium/icon.png",
   "environment": "*",
   "mixins": [
-    "hydrogen.mixins.json"
+    "potassium.mixins.json"
   ],
   "entrypoints": {
     "preLaunch": [
